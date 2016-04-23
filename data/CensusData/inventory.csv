@@ -1,0 +1,196 @@
+provider_name,provider_url,category,description,url
+"New Orleans",https://data.nola.gov,"Preschool/daycare","Building preschool/daycare",
+"New Orleans",https://data.nola.gov,"Parcels and addresses","Calls for service",https://data.nola.gov/Public-Safety-and-Preparedness/Calls-for-Service-2015/w68y-xmk6
+"New Orleans",https://data.nola.gov,"Permits","Building permits",https://data.nola.gov/Housing-Land-Use-and-Blight/NOLA-Permits/rcm3-fn58
+"New Orleans",https://data.nola.gov,"Code enforcement","Hearings",https://data.nola.gov/dataset/Code-Enforcement-Hearings-Calendar/g7yr-kp9j
+"New Orleans",https://data.nola.gov,"Code enforcement","Inspections",https://data.nola.gov/Housing-Land-Use-and-Blight/Code-Enforcement-Inspections/2mq3-p3xc
+"New Orleans",https://data.nola.gov,"Publicly owned land","Land use of nolas blight/nola-land",https://data.nola.gov/Housing-Land-Use-and-Blight/NOLA-Land-Use/n37q-brt2
+"New Orleans",https://data.nola.gov,"Crime","Crimes",https://data.nola.gov/Public-Safety-and-Preparedness/Murders-Violent-Crime-Rate-and-Property-Crime-Rate/kirw-4rbx
+"New Orleans",https://data.nola.gov,"Homelessness","Point in Time count",https://data.nola.gov/Health-Education-and-Social-Services/Homeless-Point-In-Time-Count-2005-Present-/f29j-qgmr
+"New Orleans",https://data.nola.gov,"311","Rate of 311 call resolution",https://data.nola.gov/City-Administration/Rate-of-311-first-call-resolution-2209-/2t9v-ghrk
+"New Orleans",https://data.nola.gov,"Transit","Travel time to work",https://data.nola.gov/Transportation-and-Infrastructure/Travel-time-to-work-2007-Present-/qwed-53qf
+"New Orleans",https://data.nola.gov,"Schools","Location of K-12 schools",https://data.nola.gov/Health-Education-and-Social-Services/Schools-K-12/yanw-8k4k
+"New Orleans",https://data.nola.gov,"Schools","Letter grade of schools 2009-present",https://data.nola.gov/Health-Education-and-Social-Services/School-Letter-Grades-2009-Present-/uqaz-4txm
+"New Orleans",https://data.nola.gov,"Schools","HS graduation rates",https://data.nola.gov/Health-Education-and-Social-Services/High-School-Graduation-Rates-2008-Present-/rut5-g5bw
+"New Orleans",https://data.nola.gov,"Privately owned assets","Restaurants",https://data.nola.gov/Health-Education-and-Social-Services/NOLA-Restaurants/utqx-f83p
+"New Orleans",https://data.nola.gov,"Privately owned assets","Grocery stores",https://data.nola.gov/Health-Education-and-Social-Services/NOLA-Grocery-Stores-Map/sgvu-dj2a
+"New Orleans",https://data.nola.gov,"Zoning","Zoning districts",https://data.nola.gov/Housing-Land-Use-and-Blight/NOLA-Zoning-Districts/dnvw-73jv
+"New Orleans",https://data.nola.gov,"Special Events","Mardi Gras Parade Routes - Daily Routes (2016)",http://portal.nolagis.opendata.arcgis.com/datasets/aa8931b8b6d4437c9a611f219185c23e_0
+"Detroit",https://data.detroitmi.gov,"Parcels and addresses","Property and parcels",https://data.detroitmi.gov/browse?category=Property+%26+Parcels
+"Detroit",https://data.detroitmi.gov,"Permits","Permits",https://data.detroitmi.gov/browse?q=permit
+"Detroit",https://data.detroitmi.gov,"Code enforcement","Blight violation locations",https://data.detroitmi.gov/Property-Parcels/Blight-Violations/teu6-anhh
+"Detroit",https://data.detroitmi.gov,"Publicly owned land","Parks",https://data.detroitmi.gov/Fun/Parks/6wcj-hkzq
+"Detroit",https://data.detroitmi.gov,"Publicly owned land","Vacant lot sales",https://data.detroitmi.gov/Government/DLBA-Side-Lot-Sales/ur7y-psks
+"Detroit",https://data.detroitmi.gov,"Publicly owned land","Public libraries",http://portal.datadrivendetroit.org/datasets/46321d4eac7c436d858ba64870c91075_0
+"Detroit",https://data.detroitmi.gov,"Crime","Public safety data sets",https://data.detroitmi.gov/browse?category=Public+Safety
+"Detroit",https://data.detroitmi.gov,"311","Submitted issues",https://data.detroitmi.gov/Government/Improve-Detroit-Submitted-Issues/6ynw-2fqn
+"Detroit",https://data.detroitmi.gov,"Transit","Bike lanes",http://portal.datadrivendetroit.org/datasets/4b886654a8d846a782658bd4712e7952_0
+"Detroit",https://data.detroitmi.gov,"Transit","Bus routes",http://portal.datadrivendetroit.org/datasets/259d33193b7044a48fbab295f20e404d_1
+"Detroit",https://data.detroitmi.gov,"Transit","Smart bus routes",http://portal.datadrivendetroit.org/datasets/399eabaac9c74790a682ab48c89aa129_0
+"Detroit",https://data.detroitmi.gov,"Preschool/daycare","Childcare locations (licensed or registered providers)",http://portal.datadrivendetroit.org/datasets/6e3dec15edc84212869d3d8802ac0a7c_0
+"Detroit",https://data.detroitmi.gov,"Schools","School locations",https://data.detroitmi.gov/Education/Schools/vidg-c4v6
+"Detroit",https://data.detroitmi.gov,"Schools","Schools with average commute",http://portal.datadrivendetroit.org/datasets/5d36a64150284a299c4808436de07a5d_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Hospitals",http://portal.datadrivendetroit.org/datasets/ea2551cfc5bf4e2ea7d065fb783f2129_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Full-line grocery stores",http://portal.datadrivendetroit.org/datasets/194bc647287f4e6b91c6401443845cce_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Churches",http://portal.datadrivendetroit.org/datasets/f6c93d04857c4bd4b0783867def3ccf5_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Recreation centers",http://portal.datadrivendetroit.org/datasets/8ee240e505cb493eaa63cf0c5c390d34_0
+"Detroit",https://data.detroitmi.gov,"Zoning","Detroit zoning",http://portal.datadrivendetroit.org/datasets/bbe90203edcd4c51af2f6c697ab5216c_0
+"New York",https://nycopendata.socrata.com/,"Parcels and addresses","Property address directory",https://data.cityofnewyork.us/City-Government/Property-Address-Directory/bc8t-ecyu
+"New York",https://nycopendata.socrata.com/,"Permits","Construction pipeline - list of upcoming construction opportunities",https://data.cityofnewyork.us/City-Government/Construction-Pipeline/64vf-hxyb
+"New York",https://nycopendata.socrata.com/,"Permits","Projected new housing starts",https://data.cityofnewyork.us/Housing-Development/Projected-New-Housing-Starts-as-Used-in-Enrollment/pa5t-ktd3
+"New York",https://nycopendata.socrata.com/,"Code Enforcement","Housing maintenance code violations",https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5
+"New York",https://nycopendata.socrata.com/,"Publicly owned land","Parks",https://data.cityofnewyork.us/City-Government/Parks-Properties/rjaj-zgq7
+"New York",https://nycopendata.socrata.com/,"Publicly owned land","Open Spaces",https://data.cityofnewyork.us/Recreation/New-York-City-Open-Spaces-Parks/g84h-jbjm
+"New York",https://nycopendata.socrata.com/,"Crime","Historical Crime Data",https://data.cityofnewyork.us/Public-Safety/Historical-New-York-City-Crime-Data/hqhv-9zeg
+"New York",https://nycopendata.socrata.com/,"Crime","7 Major felony incident map",https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incident-Map/dvh8-u7es+C26
+"New York",https://nycopendata.socrata.com/,"Homelessness","Homeless population by year (09-12)",https://data.cityofnewyork.us/Social-Services/Directory-Of-Homeless-Population-By-Year/5t4n-d72c
+"New York",https://nycopendata.socrata.com/,"311","Service requests (2010 to present)",https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+"New York",https://nycopendata.socrata.com/,"Transit","Subway stations",https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
+"New York",https://nycopendata.socrata.com/,"Transit","MTA Data - pertaining to subways, buses, commuter rail, bridges, and tunnels",https://data.cityofnewyork.us/Transportation/MTA-Data/mmu8-8w8b
+"New York",https://nycopendata.socrata.com/,"Preschool/Daycare","Day Care centers",https://data.cityofnewyork.us/City-Government/Day-Care-Center/3nxf-gbay
+"New York",https://nycopendata.socrata.com/,"Schools","After school program locations",https://data.cityofnewyork.us/Social-Services/After-School-Programs/6ej9-7qyi
+"New York",https://nycopendata.socrata.com/,"Schools","School point locations",https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr
+"New York",https://nycopendata.socrata.com/,"Schools","School survey",https://data.cityofnewyork.us/Education/NYC-School-Survey/kwk4-6u9e
+"New York",https://nycopendata.socrata.com/,"Privately owned assets","Selected Facilities and Program sites including schools, parks, libraries, day care, etc",https://data.cityofnewyork.us/Housing-Development/Selected-Facilities-and-Program-Sites-Shapefile/2fpa-bnsx
+"New York",https://nycopendata.socrata.com/,"Zoning","Primary Residential zoning by lot",https://data.cityofnewyork.us/Housing-Development/Primary-Residential-Zoning-by-lot/ieyi-rqsn
+"New York",https://nycopendata.socrata.com/,"Zoning","Primary Commercial zoning by lot",https://data.cityofnewyork.us/Business/Primary-Commercial-Zoning-by-lot/pwhj-ikym
+"New York",https://nycopendata.socrata.com/,"Zoning","SafeRoutes to school priority zones",https://data.cityofnewyork.us/Transportation/Safe-Route-to-Schools-Priority-Schools/pc34-d3sx
+"New York",https://nycopendata.socrata.com/,"Zoning","Hurricane inundation zones (worst case) ",https://data.cityofnewyork.us/Public-Safety/Hurricane-Inundation-Zones-Worst-Case/h3ke-x25q
+"New York",https://nycopendata.socrata.com/,"Zoning","Zoning district data",https://data.cityofnewyork.us/City-Government/Zoning-GIS-Data-ESRI-Shape-file/kdig-pewd
+"New York",https://nycopendata.socrata.com/,"Health and environment","Restaurant inspection results",https://nycopendata.socrata.com/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59
+"New York",https://nycopendata.socrata.com/,"Health and environment","Child welfare indicators (per NYC council)",https://data.cityofnewyork.us/Social-Services/Child-Welfare-Indicators-Annual-and-quarterly-repo/3m2q-9maw
+"New York",https://nycopendata.socrata.com/,"Jobs","Job listings with location",https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t
+"Washington, DC",https://opendata.dc.gov,"Parcels and addresses","Snow removal route",http://opendata.dc.gov/datasets/a0491c3eb8224c1a99a3552a0c1d97ed_20
+"Washington, DC",https://opendata.dc.gov,"Permits","Construction permits",http://opendata.dc.gov/datasets/fc7da7bd29d4493481b17d032e117d09_0
+"Washington, DC",https://opendata.dc.gov,"Publicly owned land","DC Parks",http://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795ffdca_9
+"Washington, DC",https://opendata.dc.gov,"Publicly owned land","National parks",http://opendata.dc.gov/datasets/14eb1c6b576940c7b876ebafb227febe_10
+"Washington, DC",https://opendata.dc.gov,"Publicly owned land","Recreational facilities",http://opendata.dc.gov/datasets/7122c1c815314588abe5c1864da8a355_3
+"Washington, DC",https://opendata.dc.gov,"Crime/Public Safety","Crime homepage",http://opendata.dc.gov/datasets?keyword=safety
+"Washington, DC",https://opendata.dc.gov,"Crime/Public Safety","Incidents last 30 days",http://opendata.dc.gov/datasets/dc3289eab3d2400ea49c154863312434_8
+"Washington, DC",https://opendata.dc.gov,"Homelessness","Service facilities",http://opendata.dc.gov/datasets/47be87a68e7a4376a3bdbe15d85de398_6
+"Washington, DC",https://opendata.dc.gov,"Homelessness","Shelter locations",http://opendata.dc.gov/datasets/87c5e68942304363a4578b30853f385d_25
+"Washington, DC",https://opendata.dc.gov,"311","Service requests last 30 days",http://opendata.dc.gov/datasets/14faf3d4bfbe4ca4a713bf203a985151_0
+"Washington, DC",https://opendata.dc.gov,"Transit","Main page",http://opendata.dc.gov/datasets?keyword=transportation
+"Washington, DC",https://opendata.dc.gov,"Transit","Signed bike routes",http://opendata.dc.gov/datasets/0a0ff97967fb413b91d5cf444ed82fce_6
+"Washington, DC",https://opendata.dc.gov,"Transit","Circulator routes",http://opendata.dc.gov/datasets/850232079ec241d187828ed1bf079123_55
+"Washington, DC",https://opendata.dc.gov,"Preschool/daycare","Child care locations",http://opendata.dc.gov/datasets/3be17159eb9d4339975e619ecd101a23_2
+"Washington, DC",https://opendata.dc.gov,"Schools","Education data page",http://opendata.dc.gov/datasets?keyword=education
+"Washington, DC",https://opendata.dc.gov,"Schools","Public schools",http://opendata.dc.gov/datasets/4ac321b2d409438ebd76a6569ad94034_5
+"Washington, DC",https://opendata.dc.gov,"Privately owned assets","Supermarket locations",http://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa88d377a3bae430_4
+"Washington, DC",https://opendata.dc.gov,"Zoning","Zoning index",http://opendata.dc.gov/datasets?keyword=planning
+"Washington, DC",https://opendata.dc.gov,"Zoning","Planning landuse and zoning",http://opendata.dc.gov/datasets/7e36b5f8c97f440ab45e31dc58ea9471_12
+"Washington, DC",https://opendata.dc.gov,"Zoning","Supermarket tax credit zones",http://opendata.dc.gov/datasets/1c5d4b467eaa4301b976547c65cd7d06_24
+"Washington, DC",https://opendata.dc.gov,"Wireless/broadband access","Wireless hotspots",http://opendata.dc.gov/datasets/0a73011064ae4580a4a8539de03060d1_14
+"Washington, DC",https://opendata.dc.gov,"Wireless/broadband access","HUB Zones",http://opendata.dc.gov/datasets/3060b61b0f9c444dbbd873bfae5ffa16_21
+"Washington, DC",https://opendata.dc.gov,"Health services","Primary care facilities",http://opendata.dc.gov/datasets/018890d7399245759f05c7932261ef44_7
+"Washington, DC",https://opendata.dc.gov,"Health services","HIV/AIDS clinic",http://opendata.dc.gov/datasets/b24aa2b089e5431eb360458c44ca13b4_3
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Snow emergency routes",https://www.opendataphilly.org/dataset/snow-emergency-routes
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Street lane closures",https://www.opendataphilly.org/dataset/street-lane-closures
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Stormwater Billing Parcels",https://www.opendataphilly.org/dataset/pwd-stormwater-billing-parcels
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Property Parcels",https://www.opendataphilly.org/dataset/property-parcels
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Transportation Parcels",https://www.opendataphilly.org/dataset/transportation-parcels
+"Philadelphia",https://www.opendataphilly.org,"Permits","Real estate/land records",https://www.opendataphilly.org/group/real-estate-land-records-group
+"Philadelphia",https://www.opendataphilly.org,"Permits","Residential parking permits",https://www.opendataphilly.org/dataset/active-residential-parking-permits-by-district
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Licences and Inspections data (business licenses)",https://www.opendataphilly.org/dataset/licenses-and-inspections-api
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Properties with ownership information",https://www.opendataphilly.org/dataset/opa-property-assessments
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Code violations",https://www.opendataphilly.org/dataset/code-violation-notices
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Exterior violation cleanups",https://www.opendataphilly.org/dataset/clip-exterior-violation-cleanups
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","Parks and recreation",https://www.opendataphilly.org/group/parks-recreation-group
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","Parks and recreation assets",https://www.opendataphilly.org/dataset/parks-and-recreation-assets
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","Parks and Rec Out of School Programs",https://www.opendataphilly.org/dataset/ppr-out-of-school-time-programs
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","City buildings",https://www.opendataphilly.org/dataset/mfdb-city-buildings
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","City owned vacant property",https://www.opendataphilly.org/dataset/city-owned-vacant-property
+"Philadelphia",https://www.opendataphilly.org,"Crime","Public safety data sets",https://www.opendataphilly.org/group/public-safety-group
+"Philadelphia",https://www.opendataphilly.org,"Crime","Crime incidents",https://www.opendataphilly.org/dataset/crime-incidents
+"Philadelphia",https://www.opendataphilly.org,"311","311 service requests",https://www.opendataphilly.org/dataset/311-service-requests
+"Philadelphia",https://www.opendataphilly.org,"Transit","Bike data",https://www.opendataphilly.org/organization/city-of-philadelphia?q=bike&sort=score+desc%2C+metadata_modified+desc
+"Philadelphia",https://www.opendataphilly.org,"Transit","Transportation data sets",https://www.opendataphilly.org/group/transportation-group
+"Philadelphia",https://www.opendataphilly.org,"Preschool/daycare","Childcare locations",https://www.opendataphilly.org/dataset/childcare-map
+"Philadelphia",https://www.opendataphilly.org,"Schools","Education data sets",https://www.opendataphilly.org/group/education-group
+"Philadelphia",https://www.opendataphilly.org,"Privately owned assets","Healthy corner store locations",https://www.opendataphilly.org/dataset/healthy-corner-store-locations
+"Philadelphia",https://www.opendataphilly.org,"Zoning","Planning and zoning data sets",https://www.opendataphilly.org/group/planning-zoning-group
+"Philadelphia",https://www.opendataphilly.org,"Zoning","Zoning overlay districts",https://www.opendataphilly.org/dataset/zoning-overlays
+"Philadelphia",https://www.opendataphilly.org,"Zoning","Zoning base districts",https://www.opendataphilly.org/dataset/zoning-base-districts
+"Philadelphia",https://www.opendataphilly.org,"Health and environment","Health Centers",https://www.opendataphilly.org/dataset/health-centers
+"Philadelphia",https://www.opendataphilly.org,"Health and environment","Healthy Corner Stores",https://www.opendataphilly.org/dataset/healthy-corner-store-locations
+"Baltimore",https://data.baltimorecity.gov,"Parcels and addresses","Arrests",https://data.baltimorecity.gov/Public-Safety/BPD-Arrests/3i3v-ibrt
+"Baltimore",https://data.baltimorecity.gov,"Permits","Propertise with permits obtained for work exceeding $50,000",https://data.baltimorecity.gov/Housing-Development/Permit-Activity/k6m8-62kn
+"Baltimore",https://data.baltimorecity.gov,"Permits","Housing permits",https://data.baltimorecity.gov/Housing-Development/Housing-Permits/fesm-tgxf
+"Baltimore",https://data.baltimorecity.gov,"Code enforcement","Environmental code violations",https://data.baltimorecity.gov/City-Services/Minimum-ECB-Citation-Fine-by-Violation/zfsz-qp5z
+"Baltimore",https://data.baltimorecity.gov,"Publicly owned land","Park locations",https://data.baltimorecity.gov/Culture-Arts/Parks/3r8a-uawz
+"Baltimore",https://data.baltimorecity.gov,"Publicly owned land","Culture and arts data sets",https://data.baltimorecity.gov/browse?category=Culture%20%26%20Arts
+"Baltimore",https://data.baltimorecity.gov,"Publicly owned land","Vacant buildings",https://data.baltimorecity.gov/Housing-Development/Vacant-Buildings/qqcv-ihn5
+"Baltimore",https://data.baltimorecity.gov,"Crime","Public safety data sets",https://data.baltimorecity.gov/browse?category=Public%20Safety
+"Baltimore",https://data.baltimorecity.gov,"311","City services",https://data.baltimorecity.gov/browse?category=City%20Services
+"Baltimore",https://data.baltimorecity.gov,"311","311 service requests",https://data.baltimorecity.gov/City-Services/311-Customer-Service-Requests/9agw-sxsr
+"Baltimore",https://data.baltimorecity.gov,"Transit","Transportation data sets",https://data.baltimorecity.gov/browse?category=Transportation
+"Baltimore",https://data.baltimorecity.gov,"Preschool/daycare","Child family health and wellbeing data sets",https://data.baltimorecity.gov/Neighborhoods/Children-and-Family-Health-Well-Being-2010-Shape/873b-4xqf
+"Baltimore",https://data.baltimorecity.gov,"Schools","2010-2013 school data",https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2010-2013-/f9ua-ivaj
+"Baltimore",https://data.baltimorecity.gov,"Privately owned assets","Restaurants",https://data.baltimorecity.gov/Culture-Arts/Restaurants/k5ry-ef3g
+"Baltimore",https://data.baltimorecity.gov,"Zoning","Zoning boundaries",https://data.baltimorecity.gov/Geographic/Zoning-Boundary/idqa-6rg3
+"San Francisco",https://data.sfgov.org,"Parcels and addresses","Neighborhood groups map",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Neighborhood-Groups-Map/qc6m-r4ih
+"San Francisco",https://data.sfgov.org,"Parcels and addresses","Affordable housing bonus program zoning districts and eligible parcels",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Affordable-Housing-Bonus-Program-Zoning-Districts-/hxy5-cgnc
+"San Francisco",https://data.sfgov.org,"Parcels and addresses","Property information",https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Property-Information-Map/i8ew-h6z7
+"San Francisco",https://data.sfgov.org,"Permits","Registered businesses",https://data.sfgov.org/Economy-and-Community/Registered-Business-Map/vt9c-aeiw
+"San Francisco",https://data.sfgov.org,"Permits","Stree use permits",https://data.sfgov.org/Economy-and-Community/Street-Use-Permit-Search/nn8w-ruis
+"San Francisco",https://data.sfgov.org,"Publicly owned land","Parks and open space",https://data.sfgov.org/Culture-and-Recreation/Park-and-Open-Space-Map/4udc-s3pr
+"San Francisco",https://data.sfgov.org,"Crime","Crime incidents",https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
+"San Francisco",https://data.sfgov.org,"Crime","Crime incidents map",https://data.sfgov.org/Public-Safety/Map-Crime-Incidents-from-1-Jan-2003/gxxq-x39z
+"San Francisco",https://data.sfgov.org,"Crime","Fire calls for service (responses)",https://data.sfgov.org/Public-Safety/Fire-Calls-For-Service-Responses-/5hms-iq2d
+"San Francisco",https://data.sfgov.org,"Homelessness","2011 Point in Time count",https://data.sfgov.org/Health-and-Social-Services/2011-Unsheltered-Homeless-Population-by-Supervisor/ibax-2ewt
+"San Francisco",https://data.sfgov.org,"311","Information requests",https://data.sfgov.org/City-Infrastructure/311-Information-Requests-by-Month/hrr4-hjc6
+"San Francisco",https://data.sfgov.org,"Transit","Public bicycle parking",https://data.sfgov.org/Transportation/Bicycle-Parking-Public-/w969-5mn4
+"San Francisco",https://data.sfgov.org,"Transit","Bikeway Network",https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/t6vv-tjkd
+"San Francisco",https://data.sfgov.org,"Transit","Transit stop and schedule",https://data.sfgov.org/Transportation/SFMTA-Transit-Stop-and-Schedule-Data-GTFS-format-/2qyp-77cq
+"San Francisco",https://data.sfgov.org,"Schools","SF Public Schools",https://data.sfgov.org/Geographic-Locations-and-Boundaries/San-Francisco-Public-Schools-Points/sert-rabb
+"San Francisco",https://data.sfgov.org,"Schools","SF Private Schools",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Private-Schools-Points-/64n6-x2xf
+"San Francisco",https://data.sfgov.org,"Schools","School crossing guards",https://data.sfgov.org/Transportation/School-Crossing-Guards/c9fn-ah2c
+"San Francisco",https://data.sfgov.org,"Privately owned assets","Mobile food schedule",https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b
+"San Francisco",https://data.sfgov.org,"Privately owned assets","Restaurant scores",https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores/stya-26eb
+"San Francisco",https://data.sfgov.org,"Zoning","Zoning districts",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Zoning-Districts/mici-sct2
+"San Francisco",https://data.sfgov.org,"Zoning","Enterprise zones",https://data.sfgov.org/Economy-and-Community/Enterprise-Zones/sqgr-ajkg
+"San Francisco",https://data.sfgov.org,"Health and environment","Health Care failities",https://data.sfgov.org/Health-and-Social-Services/Health-Care-Facilities-San-Francisco-CA/xncg-kcnk
+"San Francisco",https://data.sfgov.org,"Health and environment","Climate and health data",https://data.sfgov.org/Health-and-Social-Services/Climate-and-Health-Data/paqg-zyqx
+"San Francisco",https://data.sfgov.org,"Health and environment","Community resiliency indicator system",https://data.sfgov.org/Health-and-Social-Services/Community-Resiliency-Indicator-System/banc-xdvr
+"Federal",https://data.gov,"DHS","Homeland Infrastructure Foundation-Level Data (HIFLD)",https://hifld-dhs-gii.opendata.arcgis.com/
+"Federal",https://data.gov,"HUD","School Proficiency Index",http://egis.hud.opendata.arcgis.com/datasets/70e2ed8dcb6c47ffa3414c275f62b72b_0
+"Federal",https://data.gov,"HUD","Low Poverty Index",http://egis.hud.opendata.arcgis.com/datasets/a4d78dc882bb456da6200b574bfb9e12_0
+"Federal",https://data.gov,"HUD","Jobs Proximity Index",http://egis.hud.opendata.arcgis.com/datasets/636ecbfb0ee5480ea5b68e65991e4815_0
+"Federal",https://data.gov,"HUD","Labor Market Index",http://egis.hud.opendata.arcgis.com/datasets/4cb7f61e90b84fe5a208d8ea587d11f3_0
+"Federal",https://data.gov,"HUD","Low Transportation Cost Index",http://egis.hud.opendata.arcgis.com/datasets/154f5e23fd7248a99b97fa92adc81b6c_0
+"Federal",https://data.gov,"HUD","Environmental Health Hazard Index",http://egis.hud.opendata.arcgis.com/datasets/53a856bef6f24356abee30653399e94a_0
+"Federal",https://data.gov,"HUD","Racially/ethnically concentrated areas of poverty (RECAP)",http://egis.hud.opendata.arcgis.com/datasets/320b8ab5d0304daaa7f1b8c03ff01256_0
+"Federal",https://data.gov,"HUD"," Promise Zones",http://egis.hud.opendata.arcgis.com/datasets/a10cbd9187a34bd2a28574a3cfe12e64_0
+"Federal",https://data.gov,"HUD","Choice Neighborhoods Grantees",http://egis.hud.opendata.arcgis.com/datasets/ec2691b3adba44b1a85596410d04933b_0
+"Federal",https://data.gov,"HUD","Strong Cities, Strong Communities Initiative Areas ("SC2")",http://egis.hud.opendata.arcgis.com/datasets/4b482877999e44ff96c377d5c1bc5b79_0
+"Federal",https://data.gov,"HUD","Sustainable Communities Regional Planning Grantees ("SCI")",http://egis.hud.opendata.arcgis.com/datasets/b0496a9daa8a4faab1efd2762ac6b9c1_0
+"Federal",https://data.gov,"DOT/HUD","Location Affordability Index",http://www.locationaffordability.info/lai.aspx?url=download.php
+"Federal",https://data.gov,"EPA","Smart Location Database",http://geodata.epa.gov/ArcGIS/rest/services/OA/SmartLocationDatabase/MapServer
+"Federal",https://data.gov,"EPA","Environmental Justice Screening and Mapping (EJSCREEN)",http://www.epa.gov/ejscreen/download-ejscreen-data
+"Federal",https://data.gov,"HHS","Locations of Federally Qualified Health Centers",http://findahealthcenter.hrsa.gov/#
+"Federal",https://data.gov,"HHS","Locations of Head Start Centers",http://eclkc.ohs.acf.hhs.gov/hslc/data/center-data
+"Federal",https://data.gov,"USDA","Locations of SNAP (food stamp)-approved retailers",http://www.fns.usda.gov/snap/retailerlocator
+"Federal",https://data.gov,"OMB","Promise Zones and other place based initiatives boundaries CSV (also available as JSON)",https://www.whitehouse.gov/omb/place/datasets
+"Federal",https://data.gov,"Census","LEHD Origin Destination Employment Statistics (LODES)",http://lehd.ces.census.gov/data/lodes/
+"Federal",https://data.gov,"Census","American Community Survey (ACS)",http://www2.census.gov/
+"Federal",https://data.gov,"Census","CitySDK - American Community Survey (ACS)",https://uscensusbureau.github.io/citysdk/
+"Federal",https://data.gov,"Census","Other Developer Resources",http://www.census.gov/developer
+"Federal",https://data.gov,"ED","ED Data Inventory",http://datainventory.ed.gov/InventoryList
+"Federal",https://data.gov,"ED","Civil Rights Data Collection",http://ocrdata.ed.gov/
+"Kansas City",https://data.kcmo.org,"Parcels and addresses","Solid waste management",https://data.kcmo.org/Neighborhoods/Solid-Waste-Management-guide/bzka-3iad
+"Kansas City",https://data.kcmo.org,"Permits","2014 building permits",https://data.kcmo.org/Construction/2014-Building-Permit-Listing/qt6m-65bz
+"Kansas City",https://data.kcmo.org,"Code enforcement","Code violations",https://data.kcmo.org/view/mnjv-uy2z
+"Kansas City",https://data.kcmo.org,"Publicly owned land","Vacants",https://data.kcmo.org/Property/Land-Bank-Data/2ebw-sp7f
+"Kansas City",https://data.kcmo.org,"Crime","2014 Crime data",https://data.kcmo.org/Crime/crime-data/9u7z-x596
+"Kansas City",https://data.kcmo.org,"311","311 Call for service requests",https://data.kcmo.org/311/311-Call-Center-Service-Requests/7at3-sxhp
+"Kansas City",https://data.kcmo.org,"Transit","KCATA bus stops",https://data.kcmo.org/Transportation/KCATA-Bus-Stops/igyf-2355
+"Kansas City",https://data.kcmo.org,"Transit","Bike KC Survey results",https://data.kcmo.org/Transportation/Bike-KC-Survey-Results/739d-rt2i
+"Kansas City",https://data.kcmo.org,"Preschool","Daycare regulations",https://data.kcmo.org/Information-Bulletins/IB111-Daycare-Regulations/s6r5-78bk
+"Kansas City",https://data.kcmo.org,"Schools","School locations and attributes",https://data.kcmo.org/dataset/Schools/nwsj-d4dj
+"Kansas City",https://data.kcmo.org,"Privately owned assets","Resturants",https://data.kcmo.org/Food/Restaurants/apvm-9tkz
+"Kansas City",https://data.kcmo.org,"Zoning","Zoning code information",https://data.kcmo.org/Regulatory-Codes/Zoning-Development-Code-Guide/39ra-2csh
+"Indianapolis",https://data.indy.gov,"Permits","Building permits",https://data.indy.gov/dataset/Building-Permits-BLDS-/sbki-cnjx
+"Indianapolis",https://data.indy.gov,"Code enforcement","Violations and investigations",https://data.indy.gov/view/7e5w-wmac
+"Indianapolis",https://data.indy.gov,"Crime","IMPD Citizen Complaints",https://data.indy.gov/dataset/IMPD-Citizen-Complaints/h8rn-gy8c
+"Indianapolis",https://data.indy.gov,"311","Service cases",https://data.indy.gov/dataset/Service-Cases/6djc-35s6
+

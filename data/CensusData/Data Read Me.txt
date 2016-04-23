@@ -1,0 +1,30 @@
+Problem Statement: Leverage federal and local open data to identify disparities in access to resources, services, and housing that communities need to thrive.
+
+Data to use: AFFH Data. Six community asset indicators: Neighborhood School Proficiency, Poverty, Labor Market Engagement, Job Accessibility, Health Hazards Exposure, and Transit Access.
+
+What we have so far?
+AFFH Data: Demographic data, data about housing projects, transportation, job prospects, poverty, schooling, environmental impact etc etc at the following levels:
+
+CDBG: Community Development Block Grant
+CBSA: Core based Statistical Area
+Tract: Small statistical divisions of counties
+Block Group: aggregation larger than a census but smaller than a block.
+
+Q. Can we compare and see if housing projects which got a CDBG are actually better than the CSA? Can we also look at how the characteristics of people in the housing project differ from outside people?
+
+City Specific Data:
+Groceries, Commute times, Crime by locality
+
+NRI resource data:
+Number of Initiatives for NRI taken up in the county.
+
+Crime Data:
+Category of crime, time of crime, location of crime in Latitude and Longitude.
+
+Census_tract_list_06:
+Mapping from census tract number to latitude and longitude.
+San Fran County FIPS Code: 06075
+
+
+
+
