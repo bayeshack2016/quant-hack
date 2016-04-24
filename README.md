@@ -83,3 +83,10 @@ To be able to run the project the following software is required:
 
  - GIS library
    - [geopy](https://github.com/geopy/geopy) `>=1.10`
+
+Geographical Data
+-----------------
+
+**sf_zipcodes.geojson:**
+
+  A GeoJSON file that contains San Francisco zip code level topographical data. Each feature contains an attitude `id` which is the zip code associated with the `Polygon`.
