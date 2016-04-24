@@ -1,4 +1,4 @@
-# Well-Being in San Francisco
+# An Analysis of Well-Being in San Francisco
 
 This is a one-day project completed as part of the Bayes Impact hackathon.
 
@@ -34,17 +34,6 @@ neighborhoods, and does so in 2 ways:
 - It investigates the precise relation between those features and the
   satisfaction of neighborhood inhabitants.
 
-Data and Methodology
---------------------
-The satisfaction of inhabitants is inferred from surveys and the features are
-inferred from census data, notably from <a href="http://datasf.org">datasf.org</a>.
-
-The neighborhood features include:
-- a <b>crime</b> index, calculated from the crime density of the area.
-- access to <b>schools</b>, both public and private.
-- access to <b>restauration</b> services, i.e. number of close restaurants and their respective ratings.
-- <b>transportation costs</b>, <b>affordability</b>, <b>poverty</b>, <b>ethnicity</b> indices taken directly from census data.
-
 Examples
 --------
 
@@ -56,6 +45,17 @@ Eploring the relationship between the feature and the general level of
 satisfaction of inhabitants.
 
 ![Screencast](./screencast-factors.gif)
+
+Data and Methodology
+--------------------
+The satisfaction of inhabitants is inferred from surveys and the features are
+inferred from census data, notably from <a href="http://datasf.org">datasf.org</a>.
+
+The neighborhood features include:
+- a <b>crime</b> index, calculated from the crime density of the area.
+- access to <b>schools</b>, both public and private.
+- access to <b>restauration</b> services, i.e. number of close restaurants and their respective ratings.
+- <b>transportation costs</b>, <b>affordability</b>, <b>poverty</b>, <b>ethnicity</b> indices taken directly from census data.
 
 Tools
 -----
