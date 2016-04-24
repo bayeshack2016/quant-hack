@@ -31,8 +31,8 @@ neighborhoods, and does so in 2 ways:
 - By providing meaningful metrics for each neighborhood, related to crime,
   transportation, access to restaurants, together with tools to visuzalize
   them
-- It investigates the precise relation between those features and the
-  satisfaction of neighborhood inhabitants.
+- It investigates the relation between those features and the
+  satisfaction of neighborhood residents.
 
 Examples
 --------
