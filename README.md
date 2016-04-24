@@ -1,4 +1,4 @@
-# Making residents happy again
+# Well-Being in San Francisco
 
 This is a one-day project completed as part of the Bayes Impact hackathon.
 
