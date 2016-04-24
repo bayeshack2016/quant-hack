@@ -92,4 +92,4 @@ To be able to run the project the following software is required:
    - `bqplot >= 0.6.1`
 
  - GIS library
-   - geopy
+   - `geopy`
