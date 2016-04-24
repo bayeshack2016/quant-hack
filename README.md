@@ -43,7 +43,7 @@ The neighborhood features include:
 - a <b>crime</b> index, calculated from the crime density of the area.
 - access to <b>schools</b>, both public and private.
 - access to <b>restauration</b> services, i.e. number of close restaurants and their respective ratings.
-- <b>transportation</b>, <b>affordability</b>, <b>poverty</b>, <b>ethnicity</b> indices taken directly from census data.
+- <b>transportation costs</b>, <b>affordability</b>, <b>poverty</b>, <b>ethnicity</b> indices taken directly from census data.
 
 Examples
 --------
@@ -60,20 +60,10 @@ satisfaction of inhabitants.
 Tools
 -----
 
-The project was developed with the Python and JavaScript programming language.
+The project was developed with the Python and JavaScript programming languages.
 The deliverable is an interactive document provided in the form of a Jupyter
 notebook with advanced interactive visualizations based on leafletjs, bqplot,
 d3.js.
-
-Analysis:
-- pandas, numpy, matplotlib
-- jupyter
-- geopy
-
-Visualization:
-- bqplot
-- ipyleaflet
-- jupyter widgets
 
 Requirements
 ------------
