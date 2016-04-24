@@ -65,6 +65,12 @@ The deliverable is an interactive document provided in the form of a Jupyter
 notebook with advanced interactive visualizations based on leafletjs, bqplot,
 d3.js.
 
+Directions for improvement
+--------------------------
+- Incorporating historical feature and response data will allow building a neighborhood specific model that may better predict the impact of changing a feature of that neighborhood on its well-being.
+- Building a GUI using `bqplot` to allow the features to be adjusted visually and which displays the predicted change in well-being for the neighborhood.
+- Incorporating Yelp reviews to gauge neighborhood well-being.
+
 Requirements
 ------------
 
