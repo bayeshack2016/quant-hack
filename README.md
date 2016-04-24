@@ -74,3 +74,22 @@ Visualization:
 - bqplot
 - ipyleaflet
 - jupyter widgets
+
+Requirements
+------------
+
+To be able to run the project the following software is required:
+
+ - Python Scientific Stack
+   - `numpy`
+   - `pandas >= 0.17.1`
+   - `matplotlib >= 1.5.1`
+
+ - Jupyter notebook and Interactive Widget Libraries
+   - `Jupyter Notebook >= 4.2`
+   - `ipywidgets >= 5.0.0`
+   - `ipyleaflet >= 0.2.0b5`
+   - `bqplot >= 0.6.1`
+
+ - GIS library
+   - geopy
