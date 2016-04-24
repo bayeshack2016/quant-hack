@@ -40,3 +40,10 @@ def average_score(point, ref_coords, scores, kernel='quartic', bw=1.):
     if w.sum()==0 and kernel=='quartic':
         return average_score(point, ref_coords, scores, kernel='gaussian', bw=bw)
     return np.sum(w*scores) / w.sum()
+
+def smallest_distance(point, ref_coords):
+    '''
+    Returns the distance of the closest point in `ref_coords` to `point`
+    '''
+    distances = distance(point, ref_coords)
+    return distances.min()
