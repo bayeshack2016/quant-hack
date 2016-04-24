@@ -41,7 +41,7 @@ Visualizing features of neighborhoods using chloropleths.
 
 ![Chloropleth](./screencast-chloropleth.gif)
 
-Eploring the relationship between the feature and the general level of
+Eploring the relationship between the features and the general level of
 satisfaction of inhabitants.
 
 ![Screencast](./screencast-factors.gif)
