@@ -50,7 +50,7 @@ Examples
 
 Visualizing features of neighborhoods using chloropleths.
 
-![Chloropleth](./screenshot-chloropleth.png)
+![Chloropleth](./screencast-chloropleth.png)
 
 Eploring the relationship between the feature and the general level of
 satisfaction of inhabitants.
