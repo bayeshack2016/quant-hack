@@ -2,9 +2,9 @@
 Goals
 -----
 This project aims to characterize the livability of San Francisco neighborhoods, and does so in 2 ways:
-- Giving meaningful features for each neighborhood -- crime, transportation, access to restaurants etc... --
+- It provides meaningful features for each neighborhood -- crime, transportation, access to restaurants etc... --
   and tools to visualize them.
-- Uncovering the relation between those features and the satisfaction of neighborhood inhabitants. 
+- It tries to uncover a relation between those features and the satisfaction of neighborhood inhabitants. 
 
 Data and Methodology
 --------------------
